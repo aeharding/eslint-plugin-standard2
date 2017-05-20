@@ -1,10 +1,10 @@
 {
-  "name": "eslint-plugin-standard",
-  "description": "ESlint Plugin for the Standard Linter",
+  "name": "eslint-plugin-standard2",
+  "description": "ESlint Plugin for the Standard Linter 2",
   "version": "3.0.1",
-  "author": "Jamund Ferguson <jamund@gmail.com>",
+  "author": "Alexander Harding <aeharding@gmail.com>",
   "bugs": {
-    "url": "https://github.com/xjamundx/eslint-plugin-standard/issues"
+    "url": "https://github.com/aeharding/eslint-plugin-standard2/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -12,7 +12,7 @@
     "mocha": "^3.2.0",
     "standard": "*"
   },
-  "homepage": "https://github.com/xjamundx/eslint-plugin-standard#readme",
+  "homepage": "https://github.com/aeharding/eslint-plugin-standard2#readme",
   "keywords": [
     "eslint",
     "eslintplugin"
@@ -21,7 +21,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjamundx/eslint-plugin-standard.git"
+    "url": "git+https://github.com/aeharding/eslint-plugin-standard2.git"
   },
   "scripts": {
     "test": "standard && mocha tests/"
